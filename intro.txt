@@ -2,3 +2,6 @@ Hi,
 
 This is just a introdution of Git. Let's see how it works.
 I think it is working fine.
+Checking for changes.
+created a branch.
+Fixed things now, good to go for next lesson.
